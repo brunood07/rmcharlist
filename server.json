@@ -1,0 +1,39 @@
+{
+    "characters": [
+      {
+        "id": "beth-smith",
+        "title": "Beth Smith",
+        "description": "Bethany 'Beth' Smith (34 - 35 anos) é uma das cinco personagens principais de Rick and Morty. Ela é filha de Rick Sanchez e Diane Sanchez, esposa de Jerry Smith e mãe de Summer Smith e do falecido Morty Smith. Ela atualmente vive como mãe e filha de Morty Sanchez e Rick Sanchez da Dimensão C-137. Ela trabalha como veterinária no St. Equis Hospital",
+        "image": "https://static.wikia.nocookie.net/rickandmorty/images/7/7f/S1e10_unknown_beth.png/revision/latest/scale-to-width-down/282?cb=20160910195100",
+        "type": "image/text"
+      },
+      {
+        "id": "summer-smith",
+        "title": "Summer Smith",
+        "description": "Summer Smith (18 anos) é uma das cinco personagens principais de Rick and Morty sendo membro da familia Smith. Ela é filha de Jerry Smith e Beth Smith/Clone Smith, irmã mais velha de Morty Smith, neta de Leonard Smith, Joyce Smith, Rick Sanchez e Diane Sanchez. Atualmente ela age como irmã mais velha de Rick da dimensão C-137. Ela é a única pessoa da familia Smith que sabe sobre este fato. ",
+        "image": "https://static.wikia.nocookie.net/rickandmorty/images/a/ad/Summer_is_cool.jpeg/revision/latest/scale-to-width-down/328?cb=20160919183158",
+        "type": "image/text"
+      },
+      {
+        "id": "rick-sanchez",
+        "title": "Rick Sanchez",
+        "description": "Richar 'Rick' Sanchez (70 anos), também conhecido como Rick C-137, é o protagonista e um dos cinco personagens principais de Rick and Morty. Ele é um cientista megagênio cujo o alcoolismo e  comportamento imprudente e niilista são uma grande preocupação para a familia de sua filha, bem como para a segurança de seu filho, Morty  ",
+        "image": "https://static.wikia.nocookie.net/rickandmorty/images/a/a6/Rick_Sanchez.png/revision/latest/scale-to-width-down/350?cb=20160923150728",
+        "type": "image/text"
+      },
+      {
+        "id": "morty-smith",
+        "title": "Morty Smith",
+        "description": "Mortimer 'Morty' Smith (14 anos) é o protagonista central da série e um dos cinco personagens principais de Rick and Morty. Ele é neto de Rick e com frequência é obrigado a acompanhar o seu avô em suas loucas aventuras. Morty estuda no colégio Harry Herpson junto com sua irmã Summer.",
+        "image": "https://static.wikia.nocookie.net/rickandmorty/images/4/41/Morty_Smith.jpg/revision/latest/scale-to-width-down/314?cb=20200519152019",
+        "type": "image/text"
+      },
+      {
+        "id": "jerry-smith",
+        "title": "Jerry Smith",
+        "description": "Jerry Smith (34 anos) é um dos cinco personagens principais de Rick and Morty. Jerry é o marido de Beth, pai de Summer e Morty, e genro  de Rick. ",
+        "image": "https://static.wikia.nocookie.net/rickandmorty/images/f/f1/Jerry_Smith.png/revision/latest/scale-to-width-down/340?cb=20160923151111",
+        "type": "image/text"
+      }
+    ]
+  }

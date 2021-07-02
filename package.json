@@ -1,0 +1,31 @@
+{
+  "name": "rmcharlist",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "server": "json-server server.json -w -d 750 -p 3333",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/styled-components": "^5.1.10",
+    "axios": "^0.21.1",
+    "date-fns": "^2.22.1",
+    "next": "11.0.1",
+    "node-sass": "^5.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-router-dom": "^5.2.0",
+    "styled-components": "^5.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.5",
+    "@types/react": "^17.0.11",
+    "json-server": "^0.16.3",
+    "sass": "^1.35.1",
+    "sass-loader": "^12.1.0",
+    "typescript": "^4.3.4",
+    "webpack": "^5.42.0"
+  }
+}
