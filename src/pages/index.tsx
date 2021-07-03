@@ -13,7 +13,7 @@ type Homeprops = {
   
 }
 
-export default function Home(character: Homeprops) {
+export default function Home(characters: Homeprops) {
     return (
     <div className={styles.homepage}>
       <Head>
@@ -25,17 +25,7 @@ export default function Home(character: Homeprops) {
       </section>
       
       <ul>
-      
-          <a href="https://localhost:3333/characters/beth-smith"><img src="bethsmith.png" alt="beth-smith" className={styles.characters}/></a>
-        
-          <a href="https://localhost:3333/characters/jerry-smith"><img src="jerrysmith.png" alt="jerry-smith" className={styles.characters}/></a>
-      
-          <a href="https://localhost:3333/characters/morty-smith"><img src="mortysmith.png" alt="morty-smith" className={styles.characters}/></a>
-      
-          <a href="https://localhost:3333/characters/summer-smith"><img src="summersmith.png" alt="summer-smith" className={styles.characters}/></a>
-      
-          <a href="https://localhost:3333/characters/rick-sanchez"><img src="ricksanchez.png" alt="rick-sanchez" className={styles.characters}/></a>
-      
+              
       </ul>
         
     </div>   

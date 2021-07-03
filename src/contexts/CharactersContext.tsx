@@ -1,5 +1,5 @@
 import { createContext, useState, ReactNode, useContext } from 'react';
-import Character from '../pages/characters/{slug}';
+import Character from '../pages/characters/[slug]';
 
 type Characters = {
     id: string;

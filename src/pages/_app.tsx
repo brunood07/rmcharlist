@@ -1,16 +1,18 @@
 import { Header } from '../components/Header/index';
+import SearchPage from '../components/Search/search'
 import { CharactersContextProvider } from '../contexts/CharactersContext';
-import Home from '../pages/index';
 
 import styles from '../styles/globals.scss'
 
 function MyApp({ Component, pageProps }) {
+
   return (
     <CharactersContextProvider>
       <div className={styles.wrapper}>
         <main>
           <Header />
-          <Home />                
+          <SearchPage />
+                
         </main>
       </div>
     </CharactersContextProvider>
